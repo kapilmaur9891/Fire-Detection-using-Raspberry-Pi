@@ -18,7 +18,7 @@ MCP3002 Analog-to-digital Converter Chip
 
 The Raspberry Pi is our microcontroller of choice for this circuit. You can really use any Raspberry Pi board, the Model A or the Model B. In our circuit, the Model B Raspberry Pi board will be used. This can be obtained from a number of different suppliers online. We recommend Farnell Element 14, whose Raspberry Pi Model B board can be found at the following link: Raspberry Pi Model B.
 
-The MQ-2 can be obtained very cheaply, just a few bucks. A good place to look for it is on ebay, which always has auctions on them for the $2-$3 range.
+
 
 Important, it is recommended that you do not obtain the standalone sensor but the whole MQ-2 board. This is because if you buy the standalone sensor, you will have to finish building the whole schematic before you can connect it to the raspberry pi. So that less work is required for integrating this with the raspberry pi, it is recommended that you buy the complete MQ-2 sensor circuit. This you can see below.
 
